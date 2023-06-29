@@ -1,3 +1,3 @@
 # Darrell-Hawks.github.io
-[My Personal Portfolio and Resume](https://darrell-hawks.github.io/#about)
+[My Personal Portfolio and Resume Website](https://darrell-hawks.github.io/#about)
 
